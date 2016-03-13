@@ -5,10 +5,8 @@ javaruntime
 adobereader
 nodejs.install
 skype
-chocolateygui
 dropbox
 python
-python2
 procexp
 winscp.install
 itunes
@@ -16,8 +14,9 @@ sourcetree
 pip
 steam
 evernote
-everything
 vmwareplayer
 visualstudiocode
 spacesniffer
 visualstudio2015community
+virtualbox
+vagrant
