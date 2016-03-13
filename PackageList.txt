@@ -20,3 +20,5 @@ spacesniffer
 visualstudio2015community
 virtualbox
 vagrant
+googlejapaneseinput
+
