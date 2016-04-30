@@ -21,4 +21,4 @@ visualstudio2015community
 virtualbox
 vagrant
 googlejapaneseinput
-
+pycharm-community
